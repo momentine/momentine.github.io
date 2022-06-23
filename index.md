@@ -9,9 +9,9 @@ published: true
 
 ## About Me
 
-I am an incoming Computer Science Master's student at Brown University. I am interested in creating designs that improve user experience, accessibility, and mental health within human-computer interaction.
+I am an incoming computer science master's student at Brown University. I am interested in creating designs that improve user experience, accessibility, and mental health within human-computer interaction.
 
-I recently received my B.S. from Arizona State University, where I double majored in Computer Science and Psychology. 
+I recently received my B.S. from Arizona State University, where I double majored in computer science and psychology. 
 
 ## About My Mentor
 
