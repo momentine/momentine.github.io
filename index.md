@@ -9,6 +9,8 @@ published: true
 
 ## About Me
 
+I am an incoming Computer Science Master's student at Brown University with a passion for human-computer interaction.
+
 I recently received my B.S. from Arizona State University, where I double majored in Computer Science and Psychology. 
 
 ## About My Mentor
