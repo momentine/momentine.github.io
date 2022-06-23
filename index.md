@@ -19,7 +19,7 @@ Mentor info goes here.
 
 ## About My Project
 
-Still to be decided
+Project info goes here.
 
 [My Final Report](files/finalreport.pdf)
 
