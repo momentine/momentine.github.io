@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Summer 2020 DREU Project Site
+published: true
 ---
 
 * TOC
@@ -8,7 +9,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+I recently received my B.S. from Arizona State University, where I double majored in Computer Science and Psychology. 
 
 ## About My Mentor
 
