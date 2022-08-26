@@ -4,7 +4,10 @@ title: Summer 2022 DREU Project
 published: true
 ---
 
-✿ [about me](https://momentine.github.io/#about-me) ✿ [about my mentor](https://momentine.github.io/#about-my-mentor) ✿ [about my project](https://momentine.github.io/#about-my-project) ✿ [my blog](https://momentine.github.io/#my-blog)
+**✿ [about me](https://momentine.github.io/#about-me)**
+**✿ [about my mentor](https://momentine.github.io/#about-my-mentor)** 
+**✿ [about my project](https://momentine.github.io/#about-my-project)** 
+**✿ [my blog](https://momentine.github.io/#my-blog)**
 
 ## about me
 
@@ -25,4 +28,5 @@ examine the role of each text-visibility mode and understand if live typing can 
 ✿ click [here](files/finalreport.pdf) to see my final report
 
 ## my blog
-✿ [week 1](https://momentine.github.io/week1/) ✿ [week 2](https://momentine.github.io/week2/) ✿ [week 3](https://momentine.github.io/week3/) ✿ [week 4](https://momentine.github.io/week4/) ✿ [week 5](https://momentine.github.io/week5/) ✿ [week 6](https://momentine.github.io/week6/) ✿ [week 7](https://momentine.github.io/week7/) ✿ [week 8](https://momentine.github.io/week8/) ✿ [week 9](https://momentine.github.io/week9/) ✿ [week 10](https://momentine.github.io/week10/)
+✿ [week 1](https://momentine.github.io/week1/) 
+✿ [week 2](https://momentine.github.io/week2/) ✿ [week 3](https://momentine.github.io/week3/) ✿ [week 4](https://momentine.github.io/week4/) ✿ [week 5](https://momentine.github.io/week5/) ✿ [week 6](https://momentine.github.io/week6/) ✿ [week 7](https://momentine.github.io/week7/) ✿ [week 8](https://momentine.github.io/week8/) ✿ [week 9](https://momentine.github.io/week9/) ✿ [week 10](https://momentine.github.io/week10/)
