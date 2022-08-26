@@ -30,11 +30,12 @@ examine the role of each text-visibility mode and understand if live typing can 
 ## my blog
 ✿ [week 1](https://momentine.github.io/week1/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 ✿ [week 2](https://momentine.github.io/week2/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 3](https://momentine.github.io/week3/) <br>
+✿ [week 3](https://momentine.github.io/week3/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 ✿ [week 4](https://momentine.github.io/week4/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 5](https://momentine.github.io/week5/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 6](https://momentine.github.io/week6/) <br>
+✿ [week 5](https://momentine.github.io/week5/) <br>
+✿ [week 6](https://momentine.github.io/week6/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 ✿ [week 7](https://momentine.github.io/week7/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 ✿ [week 8](https://momentine.github.io/week8/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 9](https://momentine.github.io/week9/) <br>
+✿ [week 9](https://momentine.github.io/week9/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 ✿ [week 10](https://momentine.github.io/week10/) <br>
+
