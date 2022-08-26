@@ -4,7 +4,7 @@ title: Summer 2022 DREU Project
 published: true
 ---
 
-✿ [about me](https://momentine.github.io/#about-me) || ✿ [about my mentor](https://momentine.github.io/#about-my-mentor) || ✿ [about my project](https://momentine.github.io/#about-my-project) || ✿ [my blog](https://momentine.github.io/#my-blog)
+✿ [about me](https://momentine.github.io/#about-me) ✿ [about my mentor](https://momentine.github.io/#about-my-mentor) ✿ [about my project](https://momentine.github.io/#about-my-project) ✿ [my blog](https://momentine.github.io/#my-blog)
 
 ## about me
 
@@ -25,4 +25,4 @@ examine the role of each text-visibility mode and understand if live typing can 
 ✿ click [here](files/finalreport.pdf) to see my final report
 
 ## my blog
-✿ [week 1](https://momentine.github.io/week1/) || ✿ [week 2](https://momentine.github.io/week2/)
+✿ [week 1](https://momentine.github.io/week1/) ✿ [week 2](https://momentine.github.io/week2/)
