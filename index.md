@@ -4,7 +4,8 @@ title: Summer 2022 DREU Project
 published: true
 ---
 
-* {:toc}
+* ToC
+{:toc}
 
 ## About Me
 
