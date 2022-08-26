@@ -3,7 +3,6 @@ layout: default
 title: Summer 2022 DREU Project 
 published: true
 ---
-
 ## [about me](https://momentine.github.io/#about-me)
 
 I am an incoming computer science master's student at Brown University. I am interested in creating designs that improve user experience, accessibility, and mental health within human-computer interaction.
