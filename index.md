@@ -21,4 +21,5 @@ examine the role of each text-visibility mode and understand if live typing can 
 
 [my final report](files/finalreport.pdf)
 
-## [my blog](blog.html)
+## [my blog](https://momentine.github.io/#my-blog)
+[week 1] https://momentine.github.io/week1/
