@@ -4,10 +4,10 @@ title: Summer 2022 DREU Project
 published: true
 ---
 
-**✿ [about me](https://momentine.github.io/#about-me)**  &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-**✿ [about my mentor](https://momentine.github.io/#about-my-mentor)**   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-**✿ [about my project](https://momentine.github.io/#about-my-project)**   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-**✿ [my blog](https://momentine.github.io/#my-blog)**   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+**✿ [about me](https://momentine.github.io/#about-me)**  <br>
+**✿ [about my mentor](https://momentine.github.io/#about-my-mentor)**   <br>
+**✿ [about my project](https://momentine.github.io/#about-my-project)**  <br>
+**✿ [my blog](https://momentine.github.io/#my-blog)** 
 
 ## about me
 
@@ -28,14 +28,14 @@ examine the role of each text-visibility mode and understand if live typing can 
 ✿ click [here](files/finalreport.pdf) to see my final report
 
 ## my blog
-✿ [week 1](https://momentine.github.io/week1/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 2](https://momentine.github.io/week2/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 3](https://momentine.github.io/week3/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 4](https://momentine.github.io/week4/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+✿ [week 1](https://momentine.github.io/week1/) <br>
+✿ [week 2](https://momentine.github.io/week2/) <br>
+✿ [week 3](https://momentine.github.io/week3/) <br>
+✿ [week 4](https://momentine.github.io/week4/) <br>
 ✿ [week 5](https://momentine.github.io/week5/) <br>
-✿ [week 6](https://momentine.github.io/week6/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 7](https://momentine.github.io/week7/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 8](https://momentine.github.io/week8/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
-✿ [week 9](https://momentine.github.io/week9/) &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+✿ [week 6](https://momentine.github.io/week6/) <br>
+✿ [week 7](https://momentine.github.io/week7/) <br>
+✿ [week 8](https://momentine.github.io/week8/) <br>
+✿ [week 9](https://momentine.github.io/week9/) <br>
 ✿ [week 10](https://momentine.github.io/week10/) <br>
 
