@@ -22,7 +22,7 @@ My mentor is [Jeff Huang](https://jeffhuang.com/), an associate professor in com
 
 ## about my project
 
-This collaborative project is on messaging interfaces, specifically on how different levels of typing visibility indicators influence user's perceived workload, reflections and experiences. 
+This collaborative project is on messaging interfaces, specifically on how different levels of typing visibility influence user's perceived workload, reflections and experiences. 
 
 ✿ click [here](files/paper.pdf) to see the final report
 
