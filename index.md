@@ -22,10 +22,10 @@ My mentor is [Jeff Huang](https://jeffhuang.com/), an associate professor in com
 
 ## about my project
 
-My project is on messaging interfaces, specifically on how different typing visibility designs influence user perceptions of collaborative problem solving within digital communication. My study aims to test four different typing indicators: no indicator interface (see the other person’s message after it has been sent), typing indicator interface (see the other person is typing through three animated dots “...” or through“Person X is typing”), character indicator interface (see the other person is typing through characters replaced with “#” before the message is sent), and live typing interface (see everything the other is typing including backspacing as the message is being written or in other words, before it is sent) to 
-examine the role of each text-visibility mode and understand if live typing can be leveraged as a strategic tool for problem solving in text-based communication. 
+My project is on messaging interfaces, specifically on how different levels of typing visibility influence user's perceived workload, reflections and experiences. 
 
-✿ click [here](files/finalreport.pdf) to see my final report
+This paper was written in collaboration with Zainab Iftikhar and Jeff Huang 
+✿ click [here](files/finalreport.pdf) to see the final report
 
 ## my blog
 ✿ [week 1](https://momentine.github.io/week1/) <br>
