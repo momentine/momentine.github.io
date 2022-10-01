@@ -38,4 +38,6 @@ examine the role of each text-visibility mode and understand if live typing can 
 ✿ [week 8](https://momentine.github.io/week8/) <br>
 ✿ [week 9](https://momentine.github.io/week9/) <br>
 ✿ [week 10](https://momentine.github.io/week10/) <br>
+✿ [week 11](https://momentine.github.io/week11/) <br>
+✿ [week 12](https://momentine.github.io/week12/) <br>
 
