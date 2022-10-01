@@ -24,7 +24,7 @@ My mentor is [Jeff Huang](https://jeffhuang.com/), an associate professor in com
 
 My project is on messaging interfaces, specifically on how different levels of typing visibility influence user's perceived workload, reflections and experiences. 
 
-✿ click [here](files/finalreport.pdf) to see the final report
+✿ click [here](files/paper.pdf) to see the final report
 
 ## my blog
 ✿ [week 1](https://momentine.github.io/week1/) <br>
